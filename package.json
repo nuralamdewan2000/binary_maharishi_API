@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "localserver": "json-server --watch database.json",
+    "localserver": "json-server --watch db.json",
     "start":"node server.js"
   },
   "repository": {
