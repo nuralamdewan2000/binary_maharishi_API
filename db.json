@@ -1,16 +1,165 @@
 {
-    "services": [
-      { "id": "1", "title": "a title" },
-      { "id": "2", "title": "another title" }
-    ],
-    "projects": [
-      { "id": "1", "text": "a comment about post 1", "postId": "1" },
-      { "id": "2", "text": "another comment about post 1", "postId": "1" }
-    ],
-    "blogs":[
-      {
-        "name": "typicode"
-      }
-
-    ] 
-  }
+  "services": [
+    {
+      "id": "1",
+      "title": "Responsive Web Design",
+      "description": "Create a website that looks stunning on all devices",
+      "image": "https://www.searchenginejournal.com/wp-content/uploads/2021/10/responsive-web-design-1-61f01c4b64c5f-sej.png",
+      "price": "$899"
+    },
+    {
+      "id": "2",
+      "title": "Logo Design Package",
+      "description": "Get a professional logo for your brand with multiple concepts",
+      "image": "https://quicksolutionindia.com/wp-content/uploads/2023/02/Logo-Designing.jpg",
+      "price": "$499"
+    },
+    {
+      "id": "3",
+      "title": "Social Media Marketing",
+      "description": "Boost your online presence with strategic social media campaigns",
+      "image": "https://media.istockphoto.com/id/1346575545/photo/3d-render-of-social-media-business-concept.jpg?s=612x612&w=0&k=20&c=1083IFHVsot9K6aguY59kOLCWIijhPQT69oYJB9SYS0=",
+      "price": "$1299"
+    },
+    {
+      "id": "4",
+      "title": "SEO Optimization",
+      "description": "Improve your website's search engine ranking and visibility",
+      "image": "https://www.oberlo.com/media/1603954182-seo-article-header.png?fit=max&fm=jpg&w=1824",
+      "price": "$1099"
+    },
+    {
+      "id": "5",
+      "title": "Graphic Design Bundle",
+      "description": "A comprehensive package for all your graphic design needs",
+      "image": "https://visme.co/blog/wp-content/uploads/2021/10/what-is-graphic-design-header-1200.png",
+      "price": "$1499"
+    },
+    {
+      "id": "6",
+      "title": "Content Writing Services",
+      "description": "Engaging and SEO-friendly content tailored to your audience",
+      "image": "https://www.travelpayouts.com/blog/wp-content/uploads/2019/08/content-creation.jpg",
+      "price": "$799"
+    },
+    {
+      "id": "7",
+      "title": "E-commerce Development",
+      "description": "Build a robust online store with secure payment integration",
+      "image": "https://www.magetop.com/blog/wp-content/uploads/2022/06/E-Commerce-Development-Bloom-IT.jpg",
+      "price": "$1999"
+    },
+    {
+      "id": "8",
+      "title": "Mobile App Development",
+      "description": "Create a customized mobile app for your business or idea",
+      "image": "https://ideausher.com/wp-content/uploads/2022/07/covr-image-50_result.webp",
+      "price": "$2499"
+    },
+    {
+      "id": "9",
+      "title": "Video Production Services",
+      "description": "Professional video creation for marketing or storytelling",
+      "image": "https://www.editmate.com/wp-content/uploads/cheap-video-productions-1024x683.jpeg",
+      "price": "$1799"
+    },
+    {
+      "id": "10",
+      "title": "Print Design Package",
+      "description": "Design eye-catching materials for print marketing",
+      "image": "https://blog.yourdesignjuice.com/wp-content/uploads/2019/06/dg-print-design-june2019.jpg",
+      "price": "$899"
+    },
+    {
+      "id": "11",
+      "title": "UI/UX Consultation",
+      "description": "Expert advice to enhance the user experience of your product",
+      "image": "https://qubstudio.com/wp-content/uploads/2019/08/UX-consulting-banner.png.webp",
+      "price": "$599"
+    },
+    {
+      "id": "12",
+      "title": "Branding Strategy",
+      "description": "Develop a strong brand identity and strategy for your business",
+      "image": "https://stevens-tate.com/wp-content/uploads/what-is-brand-strategy-e1571329429510.jpg",
+      "price": "$1299"
+    },
+    {
+      "id": "13",
+      "title": "Web Hosting Services",
+      "description": "Reliable hosting solutions with 24/7 support",
+      "image": "hosting_image1.jpg",
+      "price": "$99/year"
+    },
+    {
+      "id": "14",
+      "title": "Cybersecurity Audit",
+      "description": "Ensure the security of your online assets with a thorough audit",
+      "image": "https://i.pcmag.com/imagery/articles/02BDsCIgmCw3gYcPWzq1xyI-5..v1571274707.jpg",
+      "price": "$1499"
+    },
+    {
+      "id": "15",
+      "title": "Virtual Assistant Services",
+      "description": "Outsource tasks to a skilled virtual assistant for increased efficiency",
+      "image": "https://www.prialto.com/hs-fs/hubfs/virtual%20assistant%20services.png?width=870&height=500&name=virtual%20assistant%20services.png",
+      "price": "$499/month"
+    },
+    {
+      "id": "16",
+      "title": "Event Photography",
+      "description": "Capture memorable moments with professional event photography",
+      "image": "https://shotkit.com/wp-content/uploads/2020/09/event-photography-feat.jpg",
+      "price": "$799"
+    },
+    {
+      "id": "17",
+      "title": "Custom WordPress Themes",
+      "description": "Unique and responsive WordPress themes tailored to your brand",
+      "image": "https://kinsta.com/wp-content/uploads/2019/11/how-to-customize-wordpress-theme.png",
+      "price": "$599"
+    },
+    {
+      "id": "18",
+      "title": "3D Rendering Services",
+      "description": "Bring your ideas to life with realistic 3D renderings",
+      "image": "https://www.momentumvirtualtours.com/wp-content/uploads/2021/06/3D-rendering-services.jpeg",
+      "price": "$1499"
+    },
+    {
+      "id": "19",
+      "title": "Email Marketing Campaign",
+      "description": "Targeted email campaigns to reach and engage your audience",
+      "image": "https://www.sender.net/wp-content/uploads/2022/02/Email-Campaigns-smaller.png",
+      "price": "$899"
+    },
+    {
+      "id": "20",
+      "title": "Chatbot Development",
+      "description": "Enhance customer interaction with a customized chatbot for your website",
+      "image": "https://images.prismic.io//intuzwebsite/d9daef05-a416-4e84-b0f8-2d5e2e3b58d8_A+Comprehensive+Guide+to+Building+an+AI+Chatbot%402x.png?w=2400&q=80&auto=format,compress&fm=png8",
+      "price": "$1199"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "a comment about post 1",
+      "description": "1",
+      "image": "image",
+      "tags": "tags",
+      "project_link": "project_link",
+      "client": "client"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "blogs": [
+    {
+      "name": "typicode"
+    }
+  ]
+}
