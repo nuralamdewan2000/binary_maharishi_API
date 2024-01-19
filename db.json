@@ -157,9 +157,228 @@
       "postId": "1"
     }
   ],
-  "blogs": [
+  "blogs":[
+      {
+        "id":"1",
+        "title":"How to be a motivated developer to keep growing",
+        "description":"As a data engineer with five+ years of experience in the ever-evolving tech landscape, I understand the importance of continuous improvement in our dynamic field. Staying motivated to enhance your skills and knowledge is not only beneficial for personal growth but also crucial for professional success. In this blog post, I will share some insights and strategies to help fellow tech professionals to maintain motivation and consistently search for excellence in their tech careers.",
+        "tags":"it is hard to keep on studying and developing skills in this ever evolving tech world" ,
+        "img":"https://miro.medium.com/v2/resize:fit:715/0*tZQKJUBhFe02sfg8",
+        "url":"https://medium.com/@cassio-bolba/how-to-be-a-motivated-developer-to-keep-growing-4dcd636e3a0c",
+        "author":"Cássio Bolba",
+        "read time":"4 min read",
+        "date":"Jan 19,2024"
+
+      },
+      {
+        "id": "2",
+        "title": "How to Create an AI Blog Writing Tool with OpenAI API, GPT-3, and Python",
+        "description": "In this tutorial, we will pick up where we left off with OpenAI API — and create our very own AI copyright tool that we can use to create unique blog articles with the use of GPT-3 Artificial Intelligence (AI) API.AI Prompt — the prompt that you use is the most important part of using the OpenAI API. The prompt tells the AI engine what it should return, it's a hint of what is required. If you would like to generate blog topics, then you would say so in the prompt, e.g. “Generate blog topics for xxxxxxxx”",
+        "tags": "Build an AI blog writing tool to create unique blog articles using GPT-3 Artificial Intelligence (AI) API.",
+        "img": "https://miro.medium.com/v2/resize:fit:828/format:webp/1*PzJLbFrFtNkqPsxielO8zA.jpeg",
+        "url": "https://python.plainenglish.io/how-to-create-an-ai-blog-writing-tool-with-openai-api-gpt-3-and-python-33665167ff8f",
+        "author": "Skolo Online Learning",
+        "read time": "3 min read",
+        "date": "Dec 29, 2021"
+    },
     {
-      "name": "typicode"
-    }
-  ]
+        "id": "3",
+        "title": "Coding for non-coders",
+        "description": "Machine learning has become integral to software applications over the past decade, but building ML systems requires significant specialized expertise. Declarative programming paradigms for ML aim to make the technology more accessible. In declarative ML, developers specify what they want the system to do rather than the procedural steps to implement it. This approach provides simpler abstractions that open up ML to a wider range of software engineers.",
+        "tags": "Just specify what you want and enjoy the music",
+        "img": "https://miro.medium.com/v2/resize:fit:828/format:webp/0*0ohHrOwx66YwTfTO",
+        "url": "https://medium.com/technology-hits/coding-for-non-coders-bd2ed3466bfa",
+        "author": "Yogesh Haribhau Kulkarni",
+        "read time": "5 min read",
+        "date": "Jan 19,2024"
+    },
+    {
+      "id": "4",
+      "title": "It's Time to Show Proof of Value at Work ",
+      "description": "Revenue isn't the primary path to profitability, especially for B2C companies that rely on hefty investment in new user acquisition. Many companies like Spotify, Uber, and Airbnb are facilitating a service — they aren't actually selling anything. Their value is in the platforms they've created. In exchange, they act more like digital toll collectors in the modern economy.",
+      "tags": "— Here's How",
+      "img": "https://miro.medium.com/v2/resize:fit:828/format:webp/0*wvhTGQutxZBMn-K2",
+      "url": "https://amandaclaypool.medium.com/its-time-to-show-proof-of-value-at-work-here-s-how-f484a0027533",
+      "author": "Amanda Claypool",
+      "read time": "14 min read",
+      "date": "Jan 10,2024"
+  },
+  {
+      "id": "5",
+      "title": "Successful Rule Breakers: Kirsten Evans Of Inletaudio On How To Succeed By Doing Things Differently",
+      "description": "Kirsten is a British singer/songwriter, based in Los Angeles, who has worked on productions for companies such as Hulu, Netflix, and HBO, Amazon Studios and more, in a variety of roles from singer and contractor, to score coordinator and composer. After her voice was used in Wales’ national contribution to the Venice Biennale in 2017, and the resultant funding Kirsten was awarded by the UK’s largest music charity Help Musicians UK as one of the first recipients of the Fusion Fund, Kirsten has gone on to collaborate with the 2023 Grammy® nominated vocal ensemble Voces8, create a custom catalogue of sample libraries for Golden Globe nominated composer, Alex Heffes, and work with publishers from West One Music Group to Sound Insurgents. Kirsten’s current work as co-owner of sample library company Inletaudio has lead her to hone her skills as a sample library developer and purpose-driven business woman.",
+      "tags": "An Interview With Chad Silverstein",
+      "img": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*skH2_6lvOcV9Ck4k6fp0ew.jpeg",
+      "url": "https://medium.com/authority-magazine/successful-rule-breakers-kirsten-evans-of-inletaudio-on-how-to-succeed-by-doing-things-differently-f267a19b99d3",
+      "author": "Chad Silverstein",
+      "read time": "23 min read",
+      "date": "Jan 18,2024"
+  },
+  {
+    "id": "6",
+    "title": "10 Hot Productivity Apps for 2024",
+    "description": "Every year, I tend to give my recommendations for the productivity apps with the best appeal and ones I have a feeling for. This is that yearly post, and after 10+ years in productivity, this year is heating up.But not for the AI reasoning, the expansion of tools continues and the competition is higher than ever, perfect for expansion.This piece is brought to you by Tool Finder for finding tools.",
+    "tags": "The biggest productivity apps to note down this year",
+    "img": "https://miro.medium.com/v2/resize:fit:3584/format:webp/1*Pw-rP0J_rqdSzSyqEgRT7A.png",
+    "url": "https://francescod.medium.com/10-hot-productivity-apps-for-2024-e45e68f2ee22",
+    "author": "Francesco D'Alessio",
+    "read time": "5 min read",
+    "date": "Jan 19,2024"
+},
+{
+    "id": "7",
+    "title": "Common Linux Commands Used by Programmers",
+    "description": "Linux is an open-source, Unix-like operating system kernel that serves as the core of various operating systems. Developed collaboratively by a global community, Linux is renowned for its stability, security, and versatility. With its robust command-line interface and support for numerous programming languages, Linux is a preferred choice for developers and administrators.",
+    "tags": "Let's get a pro player in using the Linux system by knowing the common commands",
+    "img": "https://miro.medium.com/v2/resize:fit:828/format:webp/0*J4tZ1Vb9qhhDpw4d.jpg",
+    "url": "https://ai.plainenglish.io/common-linux-commands-used-by-programmers-62a850156b97",
+    "author": "Dhilip Maharish",
+    "read time": "6 min read",
+    "date": "Dec 7, 2023"
+},
+{
+  "id": "8",
+  "title": "Navigating the World of Remote Work Opportunities",
+    "description": "In an era where remote work is not just a trend but a necessity for many, Jobicy has emerged as a go-to platform for those seeking flexibility and opportunities beyond geographical boundaries. This review explores Jobicy, a job board dedicated to remote work opportunities.Jobicy is a comprehensive job board focusing exclusively on remote job listings. With over 40,000 jobs posted and more than 100,000 remote applicants, it stands as a significant player in the remote job market. The platform caters to various industries, offering roles in programming, design, sales, marketing, and more.",
+    "tags": "Jobicy Review",
+    "img": "https://miro.medium.com/v2/resize:fit:828/format:webp/1*yvgVCtnHlhRl1DpVrx36EQ.png",
+    "url": "https://medium.com/worktugal/jobicy-review-navigating-the-world-of-remote-work-opportunities-6316ede200d9",
+    "author": "Van Vo",
+    "read time": "2 min read",
+    "date": "Jan 19,2024"
+},
+{
+  "id": "9",
+  "title": "Remote Work Isn't Dead - An Inevitable Uprising is Brewing",
+    "description": "Obituaries have already been written and all evidence points to the death of remote work.When Zoom, one of the biggest beneficiaries of the remote work boom, asked employees to return to the office, it seemed like the final nail in the coffin.90% of all companies have claimed that they'd be implementing return-to-office strategies by the end of 2024, and a huge chunk even threatened to fire employees if they didn't comply.Some of the less pessimistic viewpoints claim that while remote work isn't fully dead, most employees will need to have a significant office “attendance” and could perhaps work remotely a couple of days a week — in a hybrid setting.",
+    "tags": "The return-to-office mandates stand on shaky ground",
+    "img": "https://miro.medium.com/v2/resize:fit:828/format:webp/1*1rBV2bTpIb4DNrldlpEcfg.jpeg",
+    "url": "https://medium.com/swlh/remote-work-isnt-dead-an-inevitable-uprising-is-brewing-c36961c5dc2c",
+    "author": "Pranshu Maverick Dwivedi",
+    "read time": "6 min read",
+    "date": "Dec 12, 2023"
+},
+{
+  "id": "10",
+  "title": "Embracing Creativity, Productivity, and Social Connectivity",
+    "description": "The digital landscape is ever-evolving, and today marks a pivotal moment in the journey of Xenwave. Once known as a dedicated DeFi protocol, Xenwave is now metamorphosing into an all-encompassing, powerful application within the Web 3 space, running on the cutting-edge Bitnet network.Xenwave’s transformation signifies more than just a change; it’s a bold leap forward. Moving away from its roots in DeFi, Xenwave now stands as a comprehensive platform designed to cater to a diverse range of needs. Our new motto, “Make. Do. Talk,” isn’t just a catchy phrase — it’s our commitment to fostering creativity, boosting productivity, and enhancing social interactions in the digital realm.",
+    "tags": "“Make. Do. Talk.”",
+    "img": "https://miro.medium.com/v2/resize:fit:828/format:webp/1*_pIynqQ_-AJlRcNAnpQE9A.jpeg",
+    "url": "https://restratagem.medium.com/make-do-talk-embracing-creativity-productivity-and-social-connectivity-953fdb2236e5",
+    "author": "Restratagem",
+    "read time": "2 min read",
+    "date": "Jan 19,2024"
+},
+{
+  "id": "11",
+  "title": "The concept of the truth on X = x",
+  "description": "Episodes of asocial behavior are on the rise. Aggression toward people of different views, shameless displays of prejudices, and violent acts are not the results of inadequate policing. Social abnormalities plague us because Americans have lost the sense of what is true and false. The distinction between good and evil has become foggy. There is ambivalence in what is right and what is wrong.Bombarded by conflicting messages, Americans have difficulty figuring out the truth. We cannot form mutual trust without a consensus on what is the truth and what is false. Society cannot function in abstraction from the commonly accepted values. Without a moral spine, the social fabric disintegrates.",
+  "tags": " asocial behavior are on the rise",
+  "img": "https://miro.medium.com/v2/resize:fit:828/format:webp/1*8Hak9fyLiVJxLC-fIhn5Kw.jpeg",
+  "url": "https://virtualagora.us/the-concept-of-the-truth-on-x-x-23a5c26f7dfa",
+  "author": "Henryk A. Kowalczyk",
+  "read time": "11 min read",
+  "date": "Jan 17,2024"
+},
+{
+  "id": "12",
+  "title": "Integrity Decline?",
+    "description": "I heard someone say in passing that they think no one has any integrity anymore. It made me pause. Something remnant in me spoke to the same message, though I couldn't parse out what my own opinion was/is. Do people lead with integrity in the same ways that 'integrity' is supposed to mean or is there an entirely different way integrity is embodied? Even still, as this person seemed to think, is there some sort of integrity decline going on?It’s believed that integrity means that you’re the same in person as you are in private. I haven't heard a definition of integrity that's so all-encompassing and holistic, though I suppose that's exactly what having integrity must mean. The description also pulls in a sense of 'soundness' or 'completeness' in the individual, place, or thing that holds integrity. ‘Completeness’ probably confounds me the most since, I believe, most people juggle so many different public and private personas in all aspects of one’s life that it seems hard that a sense of unity in character can ever be forged.",
+    "tags": "It's easy to get integrity and authenticity confused",
+    "img": "https://miro.medium.com/v2/resize:fit:828/format:webp/1*Wigt4UFCD6PZOPmp7LA6EQ.png",
+    "url": "https://medium.com/@maddiemedensky/integrity-decline-66b03607c752",
+    "author": "Madeline Medensky",
+    "read time": "5 min read",
+    "date": "Jan 16,2024"
+},
+{
+  "id": "13",
+  "title": "The Psychology Behind Why You Can't Put Down Your Phone",
+    "description": "The iPhone is less than two decades old. Yet the psychology behind why it is so hard to put your phone down has been understood for almost a century.In 1898, the great psychologist Edward Thorndike proposed one of the first rules of behavior: The Law of Effect. Stated simply, rewarded actions tend to increase.Just as a rat that gets rewarded with food when it pushes a lever tends to push the lever more often, every time we check our phones and get a viscerally rewarding stimulus, it strengthens our habit of phone-checking.",
+    "tags": "The Law of Effect",
+    "img": "https://miro.medium.com/v2/resize:fit:828/format:webp/0*49HsACYyO6e5y-BD.jpg",
+    "url": "https://medium.com/mind-cafe/the-psychology-behind-why-you-cant-put-down-your-phone-c927d7a4b5e1",
+    "author": "Scott H. Young",
+    "read time": "3 min read",
+    "date": "Jan 15,2024"
+},
+{
+  "id": "14",
+  "title": "Unveiling the Unbearable: My Battle Against Cyberbullying and Online Harassment",
+    "description": "It’s incredibly hard to put this into words and share what’s been going on. I’ve never asked my friends or family for emotional support, but I’m feeling truly shattered, defeated, mentally drained, and worthless due to the events of these past several months. I have been the subject of a smear campaign that I wouldn’t wish on my worst enemy, and the target of cyberbullying, cyberharassment, and cyberstalking at a level that I truly think no one would believe was imaginable. My heart has been torn to shreds, and it seems like nobody beyond my family truly sees or understands who I am anymore. Maybe that’s my fault, since the sheer embarrassment of it all has been so overwhelming that I’ve found myself hiding from the world.",
+    "tags": "cyberbullying, cyberharassment, and cyberstalking ",
+    "img": "https://miro.medium.com/v2/resize:fit:588/format:webp/1*CpM8yNN1PN4PDsxHUlds4w.jpeg",
+    "url": "https://medium.com/@laura_owens/unveiling-the-unbearable-my-battle-against-cyberbullying-and-online-harassment-eef20c9974dc",
+    "author": "Laura Owens",
+    "read time": "10 min read",
+    "date": "Dec 8, 2023"
+},
+{
+  "id": "15",
+  "title": "The designer’s guide to social computing",
+    "description": "Humans are social beings that are subject to the dynamics of the group. It’s why we gather to watch a spectacle or follow suit when we see people head toward a safer place during an emergency. During the architectural boom of the mid-20th century, engineers designed civic spaces with these social dynamics in mind. I find it interesting how we’re innately tuned in to the collective behaviors of our fellow humans. It’s evolutionary — we’re meant to function in groups and collaborate.",
+    "tags": "The beauty and destructive potential of social networking is design itself.",
+    "img": "https://miro.medium.com/v2/resize:fit:828/format:webp/1*m2ZFA8r6IWpblh6i4MB1Eg.png",
+    "url": "https://uxdesign.cc/the-designers-guide-to-social-computing-e190a453593d",
+    "author": "Jon Upshaw",
+    "read time": "6 min read",
+    "date": "Jan 15,2024"
+},
+{
+  "id": "16",
+  "title": "The Artificial Intelligence and Social Media Content Development Landscape",
+    "description": "Social media content development is a very challenging and sometimes time-consuming exercise for marketers, however, there has been a rise in AI tools that can help with certain aspects of content development such as the generation of ideas, post captions, image and video creation.In 2023, the conversations surrounding artificial intelligence were amplified with the introduction of ‘chatbots’ such as ChatGPT.ChatGPT is an AI-powered chatbot developed by OpenAI, based on the GPT (Generative Pretrained Transformer) language model. It uses deep learning techniques to generate human-like responses to text inputs in a conversational manner.",
+    "tags": "In fact as a test, an AI tool wrote a small portion of this very article you are reading.",
+    "img": "https://miro.medium.com/v2/resize:fit:828/format:webp/1*0PZDSSBHj8bWov5Jw409yw.jpeg",
+    "url": "https://medium.com/@i.am.lvcky/the-artificial-intelligence-and-social-media-content-development-landscape-a029a562ea31",
+    "author": "Lucky Malefu",
+    "read time": "3 min read",
+    "date": "Dec 8, 2023"
+},
+{
+  "id": "17",
+  "title": "The blurring lines between UX and digital marketing",
+    "description": "some of my favorite things to consider in UX are above and beyond the reach of the website or application I’m designing. I’m intensely interested in studying people's behavior as they navigate multiple platforms, touchpoints, and interactions with everything in their lives. We traditionally call this CX (customer experience), but I’d like to propose that as the digital and commercial worlds converge more with our natural world, it’s now just our human experience (HX).",
+    "tags": "The usability and sellability of things are becoming one and the same, but it’s still too narrow a view.",
+    "img": "https://miro.medium.com/v2/resize:fit:828/format:webp/0*aC-rFzH8iaas1uad",
+    "url": "https://uxdesign.cc/the-blurring-lines-between-ux-and-digital-marketing-62d23d949eff",
+    "author": "Beth J",
+    "read time": "7 min read",
+    "date": "Jan 11, 2024"
+},
+{
+  "id": "18",
+  "title": "5 Unexpected Factors That Could Impact Your Marketing Strategy",
+    "description": "To build a successful business, it’s essential to understand what motivates people.In 1943, Maslow proposed a theory to understand human behavior. Although you know it is like the back of your hand, this is the basis of the entire article, so let’s review:Almost all my life, I have been a troubadour of Maslow’s pyramid. However, after reading “The Personal MBA” by Josh Kaufman, I have more information aligned with Digital Marketing.",
+    "tags": "Eye-Opening Marketing Secrets Embedded in Everyone, Especially Your Customers",
+    "img": "https://miro.medium.com/v2/resize:fit:828/format:webp/0*7yeIxXrkHyzdIz4R",
+    "url": "https://bettermarketing.pub/5-unexpected-factors-that-could-impact-your-marketing-strategy-deeb9f1cf9b3",
+    "author": "Stephany Highgrace",
+    "read time": "6 min read",
+    "date": "Jan 11, 2024"
+},
+{
+  "id": "19",
+  "title": "7 Awesome and Free AI Tools You Should Know",
+    "description": "The world of Artificial Intelligence continues to fascinate us. We collected 7 free artificial intelligence(AI) tools, most of them easy to use and some more sophisticated… like building ML models. We did try to be unique and avoid many of the AI platforms you’ll find in most posts of Best AI Tools. Additionally, we wanted them to be free for testing, without caveats like adding your credit card number. Some of these we use ourselves (e.g., Lumen, JADBio), so it was important for us to include them as we truly value what they have to offer.",
+    "tags": "7 free artificial intelligence(AI) tools",
+    "img": "https://miro.medium.com/v2/resize:fit:828/format:webp/1*rj79f_dSrD0A5ENkkQAxJQ.png",
+    "url": "https://medium.com/@digitalgiraffes/7-awesome-and-free-ai-tools-you-should-know-43a1630ea409",
+    "author": "Digital Giraffes",
+    "read time": "5 min read",
+    "date": "Nov 17, 2022"
+},
+{
+  "id": "20",
+  "title": "How To Trust Cloud Storage Services for Storing Our Data",
+    "description": "“I just don’t trust the cloud!” — How often have you uttered these words to yourself?But here’s the twist. You trust Cloud—every single day.To answer whether or not to trust cloud storage services to store data is a challenging, accessible yes or no.There are several elements to consider, including the Cloud’s storage provider’s reputation and security procedures, the sensitivity of the data being kept, and the user’s personal risk tolerance.Cloud storage services have become essential to our digital life, providing ease, accessibility, and, in many cases, cost-effectiveness.",
+    "tags": "Navigating the Reliability.",
+    "img": "https://miro.medium.com/v2/resize:fit:828/format:webp/1*NaEfPbo3gVcY2uWIcI57Og.png",
+    "url": "https://medium.com/@wordsmithwriter/how-to-trust-cloud-storage-services-for-storing-our-data-4cb278f96a94",
+    "author": "Anshul Kummar",
+    "read time": "3 min read",
+    "date": "Dec 25, 2023"
+}
+
+    ] 
 }
