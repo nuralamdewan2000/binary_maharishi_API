@@ -1,4 +1,36 @@
 {
+  "user":[
+    {
+        "id":"1",
+        "username":"admin",
+        "password" : "admin"
+    },
+    {
+        "id":"2",
+        "username":"namrata",
+        "password" : "namrata123"
+    },
+    {
+        "id":"3",
+        "username":"shlok",
+        "password" : "shlok456"
+    },
+    {
+        "id":"4",
+        "username":"nuralam",
+        "password" : "nuralam789"
+    },
+    {
+        "id":"5",
+        "username":"ravi",
+        "password" : "ravi1234"
+    },
+    {
+        "id":"6",
+        "username":"arvindh",
+        "password" : "arvindh5678"
+    }
+  ],
   "services": [
     {
       "id": "1",
@@ -142,19 +174,105 @@
     }
   ],
   "projects": [
-    {
+     {
       "id": "1",
-      "title": "a comment about post 1",
-      "description": "1",
-      "image": "image",
-      "tags": "tags",
-      "project_link": "project_link",
-      "client": "client"
+      "title": "SNEAK IN PEACE",
+      "description": "Streaming 24 hours a day, 7 days a week, Sneak in Peace is an always-on TV channel and discovery platform for the most established and upcoming sneaker designers.",
+      "image": "https://assets.awwwards.com/awards/submissions/2023/12/657c878a66143490602658.png",
+      "tags": "E-commerce",
+      "status": "completed",
+      "project_link": "https://www.sneakinpeace.com/collections/the-week-in-sneakers",
+      "client": "John Doe"
     },
     {
       "id": "2",
-      "text": "another comment about post 1",
-      "postId": "1"
+      "title": "ASTROPETS",
+      "description": "AstroPets has created an exclusive line of pet supplies that offer craftsmanship, quality, and affordable prices with superior customer service.",
+      "image": "https://assets.awwwards.com/awards/submissions/2023/12/657ad1628e678065259880.png",
+      "tags": "E-commerce",
+      "status": "pending",
+      "project_link": "https://showcase.nikitinteam.com/cases/astropets/",
+      "client": "John Doe"
+    },
+    {
+      "id": "3",
+      "title": "DANIEL ORUBO: THE CONTENT NERD",
+      "description": "Daniel Orubo is a London-based content strategist and marketer for B2B and B2C SaaS companies. The website highlights his 10 years of experience, his top projects, and a lot more.",
+      "image": "https://assets.awwwards.com/awards/submissions/2024/01/65a06ca84fce9730257471.jpg",
+      "tags": "Portfolio",
+      "status": "completed",
+      "project_link": "https://www.thecontentnerd.com/",
+      "client": "John Doe"
+    },
+    {
+      "id": "4",
+      "title": "JRZ '24",
+      "description": "Jason Jerez is a creative developer with a design background from Queens, NY, crafting immersive digital experiences that combine creativity and functionality.",
+      "image": "https://assets.awwwards.com/awards/submissions/2024/01/65a06ca84fce9730257471.jpg",
+      "tags": "Portfolio",
+      "status": "pending",
+      "project_link": "https://jasonjerez.com/",
+      "client": "John Doe"
+    },
+    {
+      "id": "5",
+      "title": "LAURA MERCIER",
+      "description": "Flawless artistry is at the heart of the Laura Mercier brand. This site guides customers to purchase through intuitive design that takes the guesswork out of shopping.",
+      "image": "https://assets.awwwards.com/awards/submissions/2023/12/658479a460977007629468.jpg",
+      "tags": "E-commerce",
+      "status": "completed",
+      "project_link": "https://www.lauramercier.com/",
+      "client": "Elon Musk"
+    },
+    {
+      "id": "6",
+      "title": "SUPERIOR FIREPLACES",
+      "description": "Based in Birmingham UK, Superior Fireplaces is a family-owned business offering valuable expertise in the manufacture, sale, and fitting of high-quality fireplaces.",
+      "image": "https://assets.awwwards.com/awards/submissions/2023/12/65842534c1530311454309.jpg",
+      "tags": "E-commerce",
+      "status": "pending",
+      "project_link": "https://www.superiorfireplaces.co.uk/",
+      "client": "Elon Musk"
+    },
+    {
+      "id": "7",
+      "title": "IT'S EDUARD - PORTFOLIO",
+      "description": "Portfolio website of Eduard Hambardzumyan, a designer with an artistic background specializing in creating engaging digital experiences.",
+      "image": "https://assets.awwwards.com/awards/submissions/2024/01/65a03687bb4dd991237962.jpg",
+      "tags": "Portfolio",
+      "status": "completed",
+      "project_link": "https://itseduard.com/",
+      "client": "Elon Musk"
+    },
+    {
+      "id": "8",
+      "title": "ATLY • UI/UX DESIGNER",
+      "description": "I'm Atly, an experienced UX/UI Designer. I have designed products for startups and small to mid-sized companies.",
+      "image": "https://assets.awwwards.com/awards/submissions/2024/01/65a2341df2c2a628932447.jpg",
+      "tags": "E-commerce",
+      "status": "pending",
+      "project_link": "https://atly.design/",
+      "client": "Jeff Bezos"
+    },
+    {
+      "id": "9",
+      "title": "EYEWEAR SHOPIFY STORE",
+      "description": "A beautiful, conversion optimised, mobile responsive and fast loading Shopify store for eyewear eCommerce business built using Hongo Shopify theme.",
+      "image": "https://assets.awwwards.com/awards/submissions/2023/11/65603b1c812f5286036105.jpg",
+      "tags": "E-commerce",
+      "status": "completed",
+      "project_link": "https://hongotheme.myshopify.com/",
+      "client": "Jeff Bezos"
+    },
+    {
+      "id": "10",
+      "title": "COOKIE CO",
+      "description": "Cookie Co. streamlined checkout website with seamless integrated iOS and Android app experiences with API to individual store locations and their point of sale POS.",
+      "image": "https://assets.awwwards.com/awards/submissions/2023/11/655658ae602e4807403672.jpg",
+      "tags": "E-commerce",
+      "status": "pending",
+      "project_link": "https://cookieco.com/",
+      "client": "Jeff Bezos"
     }
   ],
   "blogs":[
@@ -380,5 +498,6 @@
     "date": "Dec 25, 2023"
 }
 
-    ] 
+    ]
+  
 }
