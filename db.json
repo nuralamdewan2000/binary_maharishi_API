@@ -498,6 +498,44 @@
     "date": "Dec 25, 2023"
 }
 
-    ]
+    ],
+  "employee":[
+    {
+        "id":"1",
+        "name":"Namrata Singh",
+        "email" : "namrata.singh@gmail.com",
+        "profile":"https://avatars.githubusercontent.com/u/99364069?v=4",
+        "designation" : "Back-end Developer"
+    },
+    {
+        "id":"2",
+        "name":"Shlok Gaikwad",
+        "email" : "shlok.gaikwad@gmail.com",
+        "profile":"https://avatars.githubusercontent.com/u/99670746?v=4",
+        "designation" : "Back-end Developer"
+    },
+    {
+        "id":"3",
+       "name":"Nuralam Dewan",
+        "email" : "nuralam.dewan@gmail.com",
+        "profile":"https://avatars.githubusercontent.com/u/123894615?v=4",
+        "designation" : "Back-end Developer"
+    },
+    {
+        "id":"4",
+       "name":"Ravi Mishra",
+        "email" : "ravi.mishra@gmail.com",
+        "profile":"https://avatars.githubusercontent.com/u/151432259?v=4",
+        "designation" : "Front-end Developer"
+    },
+    {
+        "id":"5",
+       "name":"Aravindhakshan M",
+        "email" : "aravindhakshan.m@gmail.com",
+        "profile":"https://t4.ftcdn.net/jpg/05/42/36/11/360_F_542361185_VFRJWpR2FH5OiAEVveWO7oZnfSccZfD3.jpg",
+        "designation" : "Front-end Developer"
+    }
+    
+  ]
   
 }
